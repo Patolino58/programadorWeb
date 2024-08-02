@@ -1,0 +1,12 @@
+strong( negrito)
+li(texto ordenado/ desordenada)
+ol(texto desordenado)
+ul(lista ordenada)
+p(escrever texto)
+loren(texto automático)
+br(jogar para baixo)
+dl(para lista de definiçãoa)
+dt(titulo principal)
+dd(paragrafo)
+control:(comentario)
+
