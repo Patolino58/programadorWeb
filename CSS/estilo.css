@@ -1,0 +1,62 @@
+#cabecalho{
+    background-color: rgb(119, 12, 12);
+    border: 3px solid black;
+    padding: 25px;
+    width: 600px;
+    text-align: left;    
+}
+.produto1{
+   background-color: orange;
+   /* jogar cor */
+}
+.produto2{
+    background-color: orange;
+}
+.produto3{
+    background-color: red;
+}
+.produto4{
+    background-color: red;
+}
+#conteudo-principal{
+    background-color: pink ;
+    margin: 5px;
+    padding: 20px;
+    border: 3px solid black;
+}
+#rodape{
+    background-color: crimson;
+    font-size: 25px;
+    border: 3px solid black;
+}
+img{width:550px ;
+    height: 400px;
+    display: block;
+  margin: 0 auto;
+  border: 3px solid black;
+}
+.menu{
+     border: 3px solid black;
+    background-color: yellowgreen;
+    padding: 20px;
+}
+.c2{
+    background-color: blanchedalmond;
+}
+.c3{
+    background-color: blanchedalmond;
+}
+.c4{
+    background-color: blanchedalmond;
+}
+ul{
+    /* padding: 25px;   jogar mais para o centro */
+    border-color:black red pink ;
+    /* border: 2px solid black;     alinhar imagem */
+    border-style:solid;
+    width: 590px;   
+}
+h1{text-align: center; 
+    font-size: 45px;
+    font-style: italic;
+}
