@@ -1,0 +1,28 @@
+#cabecalho{
+background-color: whitesmoke;
+}
+#menu{
+    padding: 15px;
+    
+
+}
+a{
+    text-decoration: none;
+}
+body{
+background-image: url("/anna-belle/imagens/fundo.png");
+background: #c5c5b2;
+}
+#rodape{
+    text-align: center;
+}
+.bio{
+    background-color: #c5c5b3;
+}
+h1{
+    color:#c5c5b2;
+    
+}
+.a{
+    border: #c3c3ae 15px solid;
+}
