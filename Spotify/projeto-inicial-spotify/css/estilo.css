@@ -16,8 +16,36 @@ background: rgba(0,0,0, 0.6);
 color: rgb(255, 0, 0);
 }
 
+.navbar-light .navbar-nav .nav-link:hover{
+color: #9bf0e1;
+}
+.navbar-light .navbar-toggler{
+color: rgba(255,255,255, 0.5);
+border-color:rgba(255,255,255, 0.5) ;
+}
 .divisor{
 width: 1px ;
 background: white;
 margin: 12px 15px;
+}
+.carrosel{
+    background: white;
+    height: 1000px;
+}
+/* serviços */
+#servicos{
+    background-color: white;
+}
+.caixa{
+    padding: 20px;
+    padding-bottom: 20px;
+}
+.albuns{
+padding: 10px 0;
+}
+h2{
+    color: #7c26f8;
+}
+h3{
+    color: #7c26f8;
 }
